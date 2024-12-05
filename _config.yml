@@ -30,9 +30,11 @@ twitter_username: N/A
 github_username:  MJLew
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jeromelachaud/freelancer-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
